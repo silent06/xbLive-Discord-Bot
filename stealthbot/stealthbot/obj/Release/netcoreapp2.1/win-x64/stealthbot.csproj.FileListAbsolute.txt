@@ -1,0 +1,14 @@
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\bin\Release\netcoreapp2.1\win-x64\stealthbot.exe
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\bin\Release\netcoreapp2.1\win-x64\stealthbot.deps.json
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\bin\Release\netcoreapp2.1\win-x64\stealthbot.runtimeconfig.json
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\bin\Release\netcoreapp2.1\win-x64\stealthbot.runtimeconfig.dev.json
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\bin\Release\netcoreapp2.1\win-x64\stealthbot.dll
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\bin\Release\netcoreapp2.1\win-x64\stealthbot.pdb
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\obj\Release\netcoreapp2.1\win-x64\stealthbot.csprojAssemblyReference.cache
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\obj\Release\netcoreapp2.1\win-x64\stealthbot.csproj.CoreCompileInputs.cache
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\obj\Release\netcoreapp2.1\win-x64\stealthbot.AssemblyInfoInputs.cache
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\obj\Release\netcoreapp2.1\win-x64\stealthbot.AssemblyInfo.cs
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\obj\Release\netcoreapp2.1\win-x64\stealthbot.dll
+C:\Users\creec\Desktop\silent\stealthbot\discord bot\stealthbot\stealthbot\obj\Release\netcoreapp2.1\win-x64\stealthbot.pdb

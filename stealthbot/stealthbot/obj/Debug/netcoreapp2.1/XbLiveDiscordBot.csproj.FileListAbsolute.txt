@@ -1,0 +1,11 @@
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\bin\Debug\netcoreapp2.1\XbLiveDiscordBot.deps.json
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\bin\Debug\netcoreapp2.1\XbLiveDiscordBot.runtimeconfig.json
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\bin\Debug\netcoreapp2.1\XbLiveDiscordBot.runtimeconfig.dev.json
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\bin\Debug\netcoreapp2.1\XbLiveDiscordBot.dll
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\bin\Debug\netcoreapp2.1\XbLiveDiscordBot.pdb
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\obj\Debug\netcoreapp2.1\XbLiveDiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\obj\Debug\netcoreapp2.1\XbLiveDiscordBot.AssemblyInfoInputs.cache
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\obj\Debug\netcoreapp2.1\XbLiveDiscordBot.AssemblyInfo.cs
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\obj\Debug\netcoreapp2.1\XbLiveDiscordBot.dll
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\obj\Debug\netcoreapp2.1\XbLiveDiscordBot.pdb
+C:\Users\creec\Desktop\silent\xbNetWork Full source\xbNetWork Full source\discord bot\stealthbot\stealthbot\obj\Debug\netcoreapp2.1\XbLiveDiscordBot.csprojAssemblyReference.cache
